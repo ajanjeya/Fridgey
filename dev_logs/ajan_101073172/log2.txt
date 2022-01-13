@@ -1,0 +1,1 @@
+Working with the scanner api and creating adding functions to the inventory

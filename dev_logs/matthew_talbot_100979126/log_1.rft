@@ -1,0 +1,7 @@
+- Matthew Talbot
+- 100979126
+- Set up our github account with rules around merging branches into master.
+  This was done so that nobody could make any changes to the master branch
+  without anyone else on the team knowing about it. It also provides a way
+  for other team members to peer review code before it is merged into master.
+- Time spent: 3hrs

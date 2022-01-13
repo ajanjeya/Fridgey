@@ -1,0 +1,1 @@
+Working on the document for d4, final testing of the project before handing it in, also exploring the scanner api more.

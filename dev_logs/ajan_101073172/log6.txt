@@ -1,0 +1,1 @@
+Working on the d3 document, in specfic, working on one of the design patterns and creating a diagram for the desgin pattern. Also working more on the date picker so that it works on ios as well.

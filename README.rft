@@ -1,0 +1,10 @@
+What is needed to run our application
+- Make sure you have the latest version of npm installed on your machine
+- To get the latest version visit: https://nodejs.org/en/download/
+- Download expo from either the android or apple store
+
+Running our application
+- cd into the Fridgey directory
+- run npm install
+- run npm start
+- scan the barcode with the expo app

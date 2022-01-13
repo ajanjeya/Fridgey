@@ -1,0 +1,1 @@
+Finished entering in inventory data, and creating grocery item objects.
